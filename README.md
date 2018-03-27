@@ -1,3 +1,5 @@
 ### fromjupyter repo
 
-Welcome to the repo for the software of our the biosignal hardware and instructables tutorials!
+This repo contains the software of our biosignal hardware and instructables tutorials!
+
+![alt text](https://github.com/iflament/fromjupyter/diy2.png)
