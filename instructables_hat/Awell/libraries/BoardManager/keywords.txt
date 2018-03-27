@@ -1,0 +1,7 @@
+BoardManager	KEYWORD1
+dumpMagic	KEYWORD2
+eraseEEPROM	KEYWORD2
+format	KEYWORD2
+formatPhaseOne	KEYWORD2
+formatPhaseTwo	KEYWORD2
+printReport	KEYWORD2

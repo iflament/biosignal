@@ -1,0 +1,4 @@
+TinyAccel	KEYWORD1
+setup	KEYWORD2
+loop	KEYWORD2
+all	LITERAL1

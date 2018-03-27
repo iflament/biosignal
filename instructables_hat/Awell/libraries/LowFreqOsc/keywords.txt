@@ -1,0 +1,11 @@
+LowFreqOsc	KEYWORD1
+setPeriod	KEYWORD2
+getPeriod	KEYWORD2
+setFunction	KEYWORD2
+isExpired	KEYWORD2
+setInverted	KEYWORD2
+setModAmplitude	KEYWORD2
+getModAmplitude	KEYWORD2
+getMod	KEYWORD2
+apply	KEYWORD2
+freqToPeriod	KEYWORD2

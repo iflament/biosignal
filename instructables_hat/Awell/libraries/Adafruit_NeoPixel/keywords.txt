@@ -1,0 +1,9 @@
+Adafruit_NeoPixel	KEYWORD1
+setup	KEYWORD2
+stop	KEYWORD2
+begin	KEYWORD2
+show	KEYWORD2
+setPixelColor	KEYWORD2
+getPixelColor	KEYWORD2
+numPixels	KEYWORD2
+Color	KEYWORD2

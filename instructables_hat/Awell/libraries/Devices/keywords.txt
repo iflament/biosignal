@@ -1,0 +1,15 @@
+Light	KEYWORD1
+LedArray	KEYWORD1
+setColor	KEYWORD2
+getColor	KEYWORD2
+setBrightness	KEYWORD2
+getBrightness	KEYWORD2
+show	KEYWORD2
+createColor	KEYWORD2
+scaleColor	KEYWORD2
+setup	KEYWORD2
+numLeds	KEYWORD2
+fxRainbow	KEYWORD2
+fxColorWipe	KEYWORD2
+fxRainbowCycle	KEYWORD2
+all	LITERAL1

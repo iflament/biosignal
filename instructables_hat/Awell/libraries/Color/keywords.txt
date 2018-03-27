@@ -1,0 +1,8 @@
+Color KEYWORD1
+create  KEYWORD2
+scaleColor  KEYWORD2
+invertColor  KEYWORD2
+colorWheelValue  KEYWORD2
+invertColorWheel  KEYWORD2
+blendByte  KEYWORD2
+blendColors  KEYWORD2

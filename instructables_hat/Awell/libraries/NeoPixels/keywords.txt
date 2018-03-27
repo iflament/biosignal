@@ -1,0 +1,3 @@
+NeoPixels	KEYWORD1
+setup	KEYWORD2
+show	KEYWORD2

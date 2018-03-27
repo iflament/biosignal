@@ -1,0 +1,3 @@
+ModeSwitch	KEYWORD1
+setup	KEYWORD2
+checkModeSwitch	KEYWORD2
