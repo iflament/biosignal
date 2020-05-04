@@ -1,3 +1,1 @@
-DIY biosignal hardware and instructables tutorials.
-
-<img src="https://github.com/iflament/fromjupyter/blob/master/biosignal_shield.png" width="249"><img src="https://github.com/iflament/fromjupyter/blob/master/illuminoduino.png" width="250"><img src="https://github.com/iflament/fromjupyter/blob/master/hat.png" width="250">
+<img src="https://github.com/iflament/fromjupyter/blob/master/biosignal_shield.png" width="249"><img src="https://github.com/iflament/fromjupyter/blob/master/illuminoduino.png" width="250"><a href=="https://www.instructables.com/id/Build-an-EEG-hat-that-turns-your-brainwaves-into-l/"><img src="https://github.com/iflament/fromjupyter/blob/master/hat.png" width="250"></a>
